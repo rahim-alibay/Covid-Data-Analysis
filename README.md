@@ -1,8 +1,4 @@
-  <a href="https://www.python.org/">
-  <img src="img/logo.png" width="900" />
-
-  
-# COVID-19 Analysis With Python & R
+# Data-Against-Covid19-Project
 
 In this project, I try to create a simple COVID-19 report using Python and its powerful data science packages.
 
