@@ -1,5 +1,5 @@
 # Data-Against-Covid19-Project
-<img src="https://image.freepik.com/free-vector/doctor-fighting-with-virus-vector-illustration-covid-19-atack_15115-21.jpg" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="250">
+<img src="https://image.freepik.com/free-vector/doctor-fighting-with-virus-vector-illustration-covid-19-atack_15115-21.jpg" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="200">
 
 In this project, I try to create a simple COVID-19 report using Python and its powerful data science packages.
 
